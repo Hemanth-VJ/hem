@@ -4,4 +4,4 @@ SUDO
 
 ## COLD
 
-hjijsck
+hi on pot 
